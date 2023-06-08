@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    " A",
+    " A"
+  ],
+  "key": {
+    "#": {
+      "item": "blackfrontier:steel_ingot"
+    },
+    "A": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "blackfrontier:steel_hoe"
+  }
+}

@@ -1,0 +1,22 @@
+# TABS
+itemGroup.blackfrontier=Blackfrontier
+
+# BLOCKS
+tile.steel_block.name=Steel Block
+
+# ITEMS
+item.steel_ingot.name=Steel Ingot
+item.hammer.name=Hammer
+
+# TOOLS
+item.steel_axe.name=Steel Axe
+item.steel_hoe.name=Steel Hoe
+item.steel_shovel.name=Steel Shovel
+item.steel_pickaxe.name=Steel Pickaxe
+item.steel_sword.name=Steel Sword
+
+# ARMOURS
+item.steel_helmet.name=Steel Helmet
+item.steel_chestplate.name=Steel Chestplat
+item.steel_leggins.name=Steel Leggins
+item.steel_boots.name=Steel Boots

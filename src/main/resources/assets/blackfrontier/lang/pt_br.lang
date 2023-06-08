@@ -1,0 +1,22 @@
+# TABS
+itemGroup.blackfrontier=Blackfrontier
+
+# BLOCKS
+tile.steel_block.name=Bloco de aço
+
+# ITEMS
+item.steel_ingot.name=Barra de aço
+item.hammer.name=Martelo
+
+# TOOLS
+item.steel_axe.name=Machado de aço
+item.steel_hoe.name=Enxada de aço
+item.steel_shovel.name=Pá de aço
+item.steel_pickaxe.name=Picareta de aço
+item.steel_sword.name=Espada de aço
+
+# ARMOURS
+item.steel_helmet.name=Capacete de aço
+item.steel_chestplate.name=Peitoral de aço
+item.steel_leggins.name=Calças de aço
+item.steel_boots.name=Botas de aço
